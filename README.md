@@ -11,7 +11,7 @@ Pour ce workshop, il vous faudra installer Go et Docker.
 ## Etape 1: Mise en place de Docker
 Clonez le repo de ce Workshop.
 La première étape va être de créer un [Dockerfile](https://docs.docker.com/engine/reference/builder/) qui fait compiler "server".
-Pour votre information, la commande afin de lancer server est `go run server.go`.
+Pour votre information, la commande afin de lancer server est `go run main.go`.
 
 Une fois le Dockerfile créé, vous pouvez le tester de cette avec ces 3 commandes.
 
